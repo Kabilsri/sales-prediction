@@ -48,18 +48,3 @@ The dataset includes 200 rows and 4 columns:
 ```bash
 git clone https://github.com/your-username/sales-prediction.git
 cd sales-prediction
-
-pip install -r requirements.txt
-
-## Tools & Libraries
-
-Python 3.x
-Jupyter Notebook
-pandas, numpy
-matplotlib, seaborn
-scikit-learn
-
-## Author
-
-Kabilan
-Data Scientist | B.Tech in AI & Data Science
